@@ -1,0 +1,19 @@
+{
+  "name": "ARCEUS FF",
+  "short_name": "ARCEUS FF",
+  "description": "Painel Headtrick ARCEUS FF para Free Fire e Free Fire MAX",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090102",
+  "theme_color": "#ff1e3c",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
